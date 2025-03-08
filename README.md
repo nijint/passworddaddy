@@ -17,7 +17,7 @@ A simple Python-based password generator that allows users to:
 ## 📌 Installation
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/passworddaddy.git
+   git clone https://github.com/nijint/passworddaddy.git
    cd PasswordDaddy
    python3 PasswordDaddy.py
 
