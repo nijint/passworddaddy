@@ -42,7 +42,7 @@ def print_banner():
                                                                                                                                     ░░░░░░    
 """
     print(banner)
-    print("🔐 PASSWORD DADDY 🔐\n")
+    print("The password generator\n")
 
 print_banner()
 
