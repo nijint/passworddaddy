@@ -1,6 +1,7 @@
 # passworddaddy
 A Python-based password generator with customizable length, character types, and the option to include a custom word and also save the generated password along eith username into a password protected zipfile where password for  zipfile is prompted by user
- 🔐 Password Generator
+
+🔐 Password Generator
 
 A simple Python-based password generator that allows users to:
 
